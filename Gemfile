@@ -84,7 +84,7 @@ gem "omniauth-google-oauth2"
 
 gem "oj"
 
-# gem "pg"
+gem "pg"
 gem "mini_sql"
 gem "pry-rails", require: false
 gem "pry-byebug", require: false
